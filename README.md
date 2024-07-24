@@ -1,1 +1,1 @@
-# -Transform_Ordinary_Photos_into_Extraordinary_Art
+# Transform_Ordinary_Photos_into_Extraordinary_Art
