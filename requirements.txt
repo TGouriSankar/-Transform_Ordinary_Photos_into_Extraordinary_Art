@@ -1,0 +1,5 @@
+gradio
+torch
+diffusers
+transformers
+python-dotenv
